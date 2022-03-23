@@ -41,6 +41,8 @@ public class Alumno extends Persona{
     public void setCarrera(String carrera) {
         this.carrera = carrera;
     }
+    
+    
 
     @Override
     public String toString() {
