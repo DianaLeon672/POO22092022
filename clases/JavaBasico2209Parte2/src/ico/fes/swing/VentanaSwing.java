@@ -42,7 +42,6 @@ public class VentanaSwing extends JFrame {
        
         
         boton = new JButton(icono);
-        
         boton.setBackground(Color.BLUE);
         boton.setOpaque(true);
         boton.setToolTipText("Clic para convertir en °F");
